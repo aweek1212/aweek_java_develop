@@ -1,2 +1,2 @@
-# aweek_java_develop
+# aweek_java_develop_claude
 java
